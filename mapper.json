@@ -1,0 +1,7 @@
+{
+	  "first_name": "first_name",
+	  "last_name": "last_name",
+	  "email": "email",
+	  "DATA": "service_details.transaction_id",
+	  "Site_Num": "scheduled_details.location_details.location_id"
+}
